@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"<![endif]-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="js js-focus-visible" data-js-focus-visible="">
+
+<head>
+
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="https://pharmaceuticals.gov.in/sites/default/files/favicon.ico"
+        type="image/vnd.microsoft.icon" />
+    <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <link rel="alternate" type="application/rss+xml" title="Department of Micro small and medium industries"
+        href="http://ideas.msme.gov.in/Default.aspx" />
+
+    <title>Home | Department of Micro small and medium insustries | Government of India</title>
+
+
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="keywords"
+        content="pharma, pharmaceuticals, medicines, medicine, medical, drugs, pharma development, pharma department, pharma ministry, janaushadhi scheme, TB, Kala Azar, TB and Kala Azar scheme, government of india, pharma india, pharmaceuticals india, ppds india, pharmaceutical promotion development scheme, cluster development scheme, bpcl india, idpl india, hal india, pharma education, pharma degree, b.pharma, niper india, pharmaceuticals india">
+    <meta name="description"
+        content="Department of Pharmaceuticals was established under the Ministry of Chemicals and Fertilizers in 2008 with the objective of giving greater focus and thrust to the development of the Pharmaceutical Sector in India and for regulating the issues related to pricing and availability of medicines, research & development, protection of intellectual property rights and international commitments related to the sector.">
+    <meta name="title" content="Department of Industries">
+    <meta name="lang" content="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <style>
+        @import url("https://pharmaceuticals.gov.in/modules/system/system.base.css?pr9yx1");
+    </style>
+    <style media="screen">
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/views_slideshow/views_slideshow.css?pr9yx1");
+    </style>
+    <style>
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/calendar/css/calendar_multiday.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/modules/comment/comment.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/date/date_api/date.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/date/date_popup/themes/datepicker.1.7.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/modules/field/theme/field.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/modules/node/node.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/modules/search/search.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/modules/user/user.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/views/css/views.css?pr9yx1");
+    </style>
+    <style>
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/css/base.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/css/font.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/css/base-responsive.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/css/font-awesome.min.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/ctools/css/ctools.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/customs/goisearch/css/custom_result.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/customs/google_search/css/result.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/lightbox2/css/lightbox.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/panels/css/panels.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/flexslider/assets/css/flexslider_img.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/libraries/flexslider/flexslider.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/panels/plugins/layouts/onecol/onecol.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/modules/contributed/quicktabs/css/quicktabs.css?pr9yx1");
+    </style>
+    <style>
+        @import url("https://pharmaceuticals.gov.in/sites/all/themes/cmf/css/site-responsive.css?pr9yx1");
+        @import url("https://pharmaceuticals.gov.in/sites/all/themes/cmf/css/site.css?pr9yx1");
+    </style>
+    <style media="print">
+        @import url("https://pharmaceuticals.gov.in/sites/all/themes/cmf/css/print.css?pr9yx1");
+    </style>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+    <script src="https://pharmaceuticals.gov.in/misc/jquery-extend-3.4.0.js?v=1.7.2"></script>
+    <script src="https://pharmaceuticals.gov.in/misc/jquery.once.js?v=1.2"></script>
+    <script src="https://pharmaceuticals.gov.in/misc/drupal.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/views_slideshow/js/views_slideshow.js?v=1.0"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/jquery_update/replace/jquery.form/4/jquery.form.min.js?v=4.2.1"></script>
+    <script src="https://pharmaceuticals.gov.in/misc/ajax.js?v=7.67"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/admin_menu/admin_devel/admin_devel.js?pr9yx1"></script>
+    <script src="https://pharmaceuticals.gov.in/misc/progress.js?pr9yx1"></script>
+    <script>
+        var _paq = _paq || [];
+        _paq.push(["trackPageView"]);
+        _paq.push(["enableLinkTracking"]);
+        (function () {
+            var u = "https://analytics.wrc.nic.in/cmfanalytics/";
+            _paq.push(["setTrackerUrl", u + "analytics"]);
+            var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+            g.type = "text/javascript"; g.async = true; g.defer = true; g.src = u + "js/piwik.js"; s.parentNode.insertBefore(g, s);
+        }
+        )();</script>
+    <script>var base_url = "https://pharmaceuticals.gov.in"; var themePath = "sites/all/themes/cmf"; var modulePath = "sites/all/modules/customs/cmf_content";</script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/js/font-size.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/js/framework.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/js/swithcer.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/customs/goisearch/js/custom_result_jsversion.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/customs/goisearch/js/auto_jsversion.js?pr9yx1"></script>
+    <script>
+        jQuery(document).ready(function () {
+            var searchStr = "";
+            if (searchStr != "") {
+                fetchResult();
+            }
+        });
+        var currentKey = 0;
+        settings = new Array();
+        settings["searchServer"] = "http://goisearch.gov.in";
+        settings["textBoxId"] = "q";
+        settings["callBackFunction"] = "callBack";
+        loadSuggestionControls(settings);
+
+        function callBack() {
+            settings["q"] = document.getElementById("search_key").value;
+            settings["count"] = "10";
+            settings["site"] = "pharmaceuticals.gov.in";
+            loadResultControls(settings);
+        }
+
+        settings = new Array();
+        settings["searchServer"] = "http://goisearch.gov.in";
+        settings["textBoxId"] = "search_key";
+        settings["site"] = "pharmaceuticals.gov.in";
+        settings["q"] = "";
+        loadResultControls(settings);
+
+        function modifySettings(key1) {
+            if (document.getElementById("search_key").value != null) {
+                settings[key1] = document.getElementById("search_key").value;
+                settings["count"] = "10";
+                settings["site"] = "pharmaceuticals.gov.in";
+                loadResultControls(settings);
+            }
+            hideAutoComplete();
+        }
+
+        function fetchResult() {
+            var str = window.document.URL.toString();
+            str = escape(str);
+            var q = str.indexOf("?search_key=") + 12;
+            settings["q"] = str.slice(q);
+            settings["count"] = "10";
+            settings["site"] = "pharmaceuticals.gov.in";
+            loadResultControls(settings);
+        }
+
+        function escape(string) {
+            return ("" + string).replace(/&/g, "&").replace(/</g, "<").replace(/>/g, ">").replace(/"/g, """).replace(/" / g, "'").replace(/\//g, "/").replace(/\+/g, " ");
+        };
+    </script>
+    <script src="https://pharmaceuticals.gov.in/sites/all/modules/customs/guidelines/js/script.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/lightbox2/js/lightbox.js?1635114076"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/libraries/flexslider/jquery.flexslider-min.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/flexslider_views_slideshow/js/flexslider_views_slideshow.js?pr9yx1"></script>
+    <script src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/views/js/base.js?pr9yx1"></script>
+    <script src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/views/js/ajax_view.js?pr9yx1"></script>
+    <script
+        src="https://pharmaceuticals.gov.in/sites/all/modules/contributed/quicktabs/js/quicktabs.js?pr9yx1"></script>
+    <script src="https://pharmaceuticals.gov.in/sites/all/themes/cmf/js/jquery-2.1.1.min.js?pr9yx1"></script>
+    <script src="https://pharmaceuticals.gov.in/sites/all/themes/cmf/js/jquery.flexslider.js?pr9yx1"></script>
+    <script src="https://pharmaceuticals.gov.in/sites/all/themes/cmf/js/custom.js?pr9yx1"></script>
+    <script>jQuery.extend(Drupal.settings, { "basePath": "\/", "pathPrefix": "", "ajaxPageState": { "theme": "cmf", "theme_token": "RXoeImVg0iN1n_H1B4eRw7BdBXmTwMSCNvPrT9u26ag", "jquery_version": "1.7", "js": { "sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js": 1, "misc\/jquery-extend-3.4.0.js": 1, "misc\/jquery.once.js": 1, "misc\/drupal.js": 1, "sites\/all\/modules\/contributed\/views_slideshow\/js\/views_slideshow.js": 1, "sites\/all\/modules\/contributed\/jquery_update\/replace\/ui\/external\/jquery.cookie.js": 1, "sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js": 1, "misc\/ajax.js": 1, "sites\/all\/modules\/contributed\/jquery_update\/js\/jquery_update.js": 1, "sites\/all\/modules\/contributed\/admin_menu\/admin_devel\/admin_devel.js": 1, "misc\/progress.js": 1, "0": 1, "1": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/js\/font-size.js": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/js\/framework.js": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/js\/swithcer.js": 1, "sites\/all\/modules\/customs\/goisearch\/js\/custom_result_jsversion.js": 1, "sites\/all\/modules\/customs\/goisearch\/js\/auto_jsversion.js": 1, "2": 1, "sites\/all\/modules\/customs\/guidelines\/js\/script.js": 1, "sites\/all\/modules\/contributed\/lightbox2\/js\/lightbox.js": 1, "sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js": 1, "sites\/all\/modules\/contributed\/flexslider_views_slideshow\/js\/flexslider_views_slideshow.js": 1, "sites\/all\/modules\/contributed\/views\/js\/base.js": 1, "sites\/all\/modules\/contributed\/views\/js\/ajax_view.js": 1, "sites\/all\/modules\/contributed\/quicktabs\/js\/quicktabs.js": 1, "sites\/all\/themes\/cmf\/js\/jquery-2.1.1.min.js": 1, "sites\/all\/themes\/cmf\/js\/jquery.flexslider.js": 1, "sites\/all\/themes\/cmf\/js\/custom.js": 1 }, "css": { "modules\/system\/system.base.css": 1, "modules\/system\/system.menus.css": 1, "modules\/system\/system.messages.css": 1, "modules\/system\/system.theme.css": 1, "sites\/all\/modules\/contributed\/views_slideshow\/views_slideshow.css": 1, "sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css": 1, "modules\/comment\/comment.css": 1, "sites\/all\/modules\/contributed\/date\/date_api\/date.css": 1, "sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css": 1, "modules\/field\/theme\/field.css": 1, "modules\/node\/node.css": 1, "modules\/search\/search.css": 1, "modules\/user\/user.css": 1, "sites\/all\/modules\/contributed\/views\/css\/views.css": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/css\/base.css": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/css\/font.css": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/css\/flexslider.css": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/css\/base-responsive.css": 1, "sites\/all\/modules\/customs\/cmf_content\/assets\/css\/font-awesome.min.css": 1, "sites\/all\/modules\/contributed\/ctools\/css\/ctools.css": 1, "sites\/all\/modules\/customs\/goisearch\/css\/custom_result.css": 1, "http:\/\/goisas.nic.in\/content\/scripts\/jquery.1.8.7\/themes\/base\/jquery.ui.all.css": 1, "sites\/all\/modules\/customs\/goisearch\/css\/add-css.css": 1, "sites\/all\/modules\/customs\/google_search\/css\/result.css": 1, "sites\/all\/modules\/contributed\/lightbox2\/css\/lightbox.css": 1, "sites\/all\/modules\/contributed\/panels\/css\/panels.css": 1, "sites\/all\/modules\/contributed\/flexslider\/assets\/css\/flexslider_img.css": 1, "sites\/all\/libraries\/flexslider\/flexslider.css": 1, "sites\/all\/modules\/contributed\/panels\/plugins\/layouts\/onecol\/onecol.css": 1, "sites\/all\/modules\/contributed\/quicktabs\/css\/quicktabs.css": 1, "sites\/all\/themes\/cmf\/system.menus.css": 1, "sites\/all\/themes\/cmf\/system.messages.css": 1, "sites\/all\/themes\/cmf\/system.theme.css": 1, "sites\/all\/themes\/cmf\/css\/site-responsive.css": 1, "sites\/all\/themes\/cmf\/css\/site.css": 1, "sites\/all\/themes\/cmf\/css\/print.css": 1 } }, "lightbox2": { "rtl": "0", "file_path": "\/(\\w\\w\/)public:\/", "default_image": "\/sites\/all\/modules\/contributed\/lightbox2\/images\/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 1, "show_caption": 1, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "viewsSlideshow": { "home_flexslider-block": { "methods": { "goToSlide": ["viewsSlideshowPager", "viewsSlideshowSlideCounter", "viewsSlideshowCycle"], "nextSlide": ["viewsSlideshowPager", "viewsSlideshowSlideCounter", "flexsliderViewsSlideshow", "viewsSlideshowCycle"], "pause": ["viewsSlideshowControls", "flexsliderViewsSlideshow", "viewsSlideshowCycle"], "play": ["viewsSlideshowControls", "flexsliderViewsSlideshow", "viewsSlideshowCycle"], "previousSlide": ["viewsSlideshowPager", "viewsSlideshowSlideCounter", "flexsliderViewsSlideshow", "viewsSlideshowCycle"], "transitionBegin": ["viewsSlideshowPager", "viewsSlideshowSlideCounter"], "transitionEnd": [] }, "paused": 0 } }, "flexslider_views_slideshow": { "#flexslider_views_slideshow_main_home_flexslider-block": { "num_divs": 12, "id_prefix": "#flexslider_views_slideshow_main_", "vss_id": "home_flexslider-block", "namespace": "flex-", "selector": ".slides \u003E li", "easing": "swing", "direction": "horizontal", "reverse": false, "smoothHeight": false, "startAt": 0, "animationSpeed": 600, "initDelay": 0, "useCSS": true, "touch": true, "video": false, "keyboard": true, "multipleKeyboard": false, "mousewheel": 0, "controlsContainer": ".flex-control-nav-container", "sync": "", "asNavFor": "", "itemWidth": 0, "itemMargin": 0, "minItems": 0, "maxItems": 0, "move": 0, "animation": "fade", "slideshow": true, "slideshowSpeed": 70000, "directionNav": true, "controlNav": true, "prevText": "", "nextText": "", "pausePlay": true, "pauseText": "Pause", "playText": "Play", "randomize": false, "thumbCaptions": false, "thumbCaptionsBoth": false, "animationLoop": true, "pauseOnAction": false, "pauseOnHover": true, "manualControls": "" } }, "ajax": { "quicktabs-tab-home_content-0": { "progress": { "message": "", "type": "throbber" }, "event": "click", "url": "\/quicktabs\/ajax\/home_content\/0\/view\/home_tabs\/block\/1\/node\/" } }, "urlIsAjaxTrusted": { "\/quicktabs\/ajax\/home_content\/0\/view\/home_tabs\/block\/1\/node\/": true, "\/search\/node": true }, "quicktabs": { "qt_home_content": { "name": "home_content", "tabs": [{ "vid": "home_tabs", "display": "block", "args": "", "view_path": "node", "view_dom_id": 1, "ajax_args": "", "actual_args": [] }], "ajaxPageState": { "jquery_version": "1.7" } } } });</script>
+    <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        var fontSize = "100";
+    </script>
+    <noscript>
+        <link href="https://pharmaceuticals.gov.in/sites/all/themes/cmf/css/no-js.css" type="text/css" rel="stylesheet">
+    </noscript>
+</head>
+
+<body class="html front not-logged-in two-sidebars page-node i18n-en">
+
+    <div class="wrapper common-wrapper">
+        <div class="region region-header-top">
+            <div id="block-cmf-content-header-region-block" class="block block-cmf-content first last odd">
+
+
+                <noscript class="no_scr">"JavaScript is a standard programming language that is included to provide
+                    interactive features, Kindly enable Javascript in your browser. For details visit help page"
+                </noscript>
+                <div class="wrapper common-wrapper">
+                    <div class="container common-container four_content ">
+                        <div class="common-left clearfix">
+                            <ul>
+                                <li class="gov-india"><span class="responsive_go_hindi" lang="hi"><a target="_blank"
+                                            href="http://india.gov.in/hi"
+                                            title="भारत सरकार ( बाहरी वेबसाइट जो एक नई विंडो में खुलती है)">भारत
+                                            सरकार</a></span><span class="li_eng responsive_go_eng">
+                                        <a target="_blank" href="http://india.gov.in/"
+                                            title="Government of india,External Link that opens in a new window">Government
+                                            of india</a></span>
+                                </li>
+                                <li class="ministry"><span class="responsive_minis_hi" lang="hi">रसायन एवं उर्वरक
+                                        मंत्रालय</span>
+                                    <span class="li_eng responsive_minis_eng">Ministry of Small and
+                                       Medium and Large scale industries</span>
+                                </li>
+                            </ul>
+
+                        </div>
+                        <div class="common-right clearfix">
+                            <ul id="header-nav">
+                                <li class="ico-skip cf"><a href="#skipCont" title="">MAIN CONTENT</a>
+                                </li>
+                                <li class="ico-skip cf"><a href="#skipCont" title="">SEARCH</a>
+                                </li>
+
+
+
+                                <div class="search-drop both-search">
+                                    <div class="google-find">
+                                        <form method="get" action="https://www.google.com/search" target="_blank">
+                                            <label for="search_key_g" class="notdisplay">Search</label>
+                                            <input type="text" name="q" value="" id="search_key_g" />
+                                            <input type="submit" value="Search" class="submit" />
+                                            <div class="">
+                                                <input type="radio" name="sitesearch" value="" id="the_web" />
+                                                <label for="the_web">The Web</label>
+                                                <input type="radio" name="sitesearch" value="pharmaceuticals.gov.in"
+                                                    checked id="the_domain" /> <label for="the_domain">
+                                                    PHARMACEUTICALS.GOV.IN</label>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="find">
+                                        <form name="searchForm" action="https://pharmaceuticals.gov.in/search">
+                                            <label for="search_key" class="notdisplay">Search</label>
+                                            <input type="text" name="search_key" id="search_key"
+                                                onkeyup="autoComplete()" autocomplete="off" required />
+                                            <input type="submit" value="Search" class="bttn-search" />
+                                        </form>
+                                        <div id="auto_suggesion"></div>
+                                    </div>
+                                </div>
+                                </li>
+                                <li class="ico-skip cf"><a href="#skipCont" title="">FONT</a>
+
+
+
+                                    </a>
+                                    <ul>
+                                        <li> <a onclick="set_font_size('increase')" title="Increase font size"
+                                                href="javascript:void(0);">A<sup>+</sup>
+                                            </a> </li>
+                                        <li> <a onclick="set_font_size()" title="Reset font size"
+                                                href="javascript:void(0);">A<sup> </sup></a> </li>
+                                        <li> <a onclick="set_font_size('decrease')" title="Decrease font size"
+                                                href="javascript:void(0);">A<sup>-</sup></a> </li>
+                                        <li> <a href="javascript:void(0);" class="high-contrast dark"
+                                                title="High Contrast">A</a> </li>
+                                        <li> <a href="javascript:void(0);" class="high-contrast light"
+                                                title="Normal Contrast" style="display: none;">A</a> </li>
+
+                                    </ul>
+                                </li>
+                                <li class="ico-skip cf"><a href="#skipCont" title="">SOCIAL MEDIA</a>
+
+                                    <ul>
+                                        <li><a target="_blank" title="External Link that opens in a new window"
+                                                href="https://www.facebook.com/pages/Department-of-Pharmaceuticals/877025902310097"><img
+                                                    alt="Facebook Page"
+                                                    src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/images/ico-facebook.png"></a>
+                                        </li>
+                                        <li><a target="_blank" title="External Link that opens in a new window"
+                                                href="https://twitter.com/pharmadept"><img alt="Twitter Page"
+                                                    src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/images/ico-twitter.png"></a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="ico-skip cf"><a href="#skipCont" title="">LANGUAGE</a>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+
+
+            function addBanner() {
+                // create a new div element 
+                // and give it popup content 
+                var newDiv = document.createElement("div");
+                newDiv.setAttribute("style", "position: fixed; width: 100%; height: 100%;z-index: 9999991;");
+                newDiv.setAttribute("id", "popup");
+                newDiv.innerHTML += '<div style=" position: fixed; background: #000; width: 100%;height: 100%;opacity: .6; z-index: 9999992;            "></div><div style="  position: absolute;width: 88%; z-index: 9999993;display: block; top:0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); border-radius: 5px;  box-shadow: rgb(170, 170, 170) 0px 2px 8px; overflow: hidden; margin: auto; left: 0;  right: 0;  text-align: center;"><button class="open_button" onClick="closeMIBPopup1()" style="position: absolute; background: #fff;color: #000;right: 3px; top: 5px; border-radius: 50%; width: 32px; height: 32px; line-height: 20px; font-size: 18px; font-weight: bold; cursor: pointer;    box-shadow: 0 0 10px 0 #000;">X</button><div class="popup_body" style=" "><a href="https://www.cowin.gov.in/" style="curser:pointer;" target="_blank"><img src="https://pharmaceuticals.gov.in/sites/default/files/bannerss2.png" alt="Banner" style=" width: 100%;"/></a></div></div>';
+                document.body.insertBefore(newDiv, document.body.firstChild);
+                openMIBPopup1();
+            }
+
+            function openMIBPopup1() {
+                var el = document.getElementById('popup');
+                el.style.display = 'block';
+                document.body.style.background = '#353333';
+            }
+
+            function closeMIBPopup1() {
+                var el = document.getElementById('popup');
+                el.style.display = 'none';
+                document.body.style.background = 'white';
+            }
+
+        </script>
+    </div>
+    <section class="wrapper header-wrapper">
+        <div class="container header-container" style="background-color: #EAEFF2;">
+            <center>
+                <h1 class="logo">
+                    <a href="/" title="Home" rel="home" class="header__logo" id="logo">
+                        <img class="national_emblem"
+                            src="https://pharmaceuticals.gov.in/sites/all/themes/cmf/images/emblem-dark.png"
+                            alt="national emblem">
+
+                        <a href="/" title="Home" rel="home" class="header__logo" id="logo">
+
+                            <p style="margin-left: 200px;margin-top: 30px;font-size:30px;font-variant: small-caps;">
+                                Department of Industries
+                            </p>
+
+                        </a>
+                </h1>
+                <a class="toggle-nav-bar" href="javascript:void(0);">
+                    <span class="menu-icon"></span>
+                    <span class="menu-text">Menu</span>
+            </center>
+            </a>
+            <div class="header-right clearfix">
+                <div class="right-content clearfix">
+
+
+                    <div class="float-element">
+                        <a class="sw-logo" title="External Link that opens in a new window"
+                            href="https://swachhbharat.mygov.in/" target="_blank"><img
+                                src="https://pharmaceuticals.gov.in/sites/all/themes/cmf/images/swach-bharat.png"
+                                alt="Swachh Bharat"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/.header-wrapper-->
+
+    <nav class="wrapper nav-wrapper">
+
+        <div id="main-menu" class="container nav-container" style="margin-left: 1000px;">
+            <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+                <ul class="menu">
+                    <li class="menu__item is-active is-leaf first leaf active menu-mlid-218"><a href="/" title="Home"
+                            class="menu__link active">Home</a></li>
+                    <li class="menu__item is-expanded expanded menu-mlid-944"><a href="/about-department"
+                            title="About Us" class="menu__link">About Us</a>
+                        <ul class="menu">
+                            
+                            <li class="menu__item is-leaf last leaf menu-mlid-4031"><a href="contact_us.html"
+                                    class="menu__link">Contact Us</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu__item is-leaf leaf menu-mlid-1585"><a href="contact_us.html"
+                            title="Citizen Charter" class="menu__link">Contact Us</a></li>
+                    <li class="menu__item is-expanded expanded menu-mlid-656"><a href="/rti"
+                            title="Right to Information Act" class="menu__link">RTI</a>
+                        <ul class="menu">
+                            
+                            <li class="menu__item is-leaf last leaf menu-mlid-3815"><a
+                                    href="/work-allocation-and-committees" class="menu__link">Work Allocation and
+                                    Committees</a></li>
+                        </ul>
+                    </li>
+                    
+                        <ul class="menu">
+                            <li class="menu__item is-leaf first leaf menu-mlid-3812"><a href="/cca"
+                                    class="menu__link">Chief Controller Of Accounts</a></li>
+                            
+                            
+                        </ul>
+                    </li>
+                    <li class="menu__item is-leaf leaf menu-mlid-3594"><a href="/swachh-bharat" title="Swachh Bharat"
+                            class="menu__link">Swachh Bharat</a></li>
+                    <li class="menu__item is-expanded last expanded menu-mlid-4024"><a href="/about-constitution"
+                            class="menu__link">Constitution Day</a>
+                        <ul class="menu">
+                            <li class="menu__item is-leaf first last leaf menu-mlid-4025"><a href="/about-constitution"
+                                    class="menu__link">About Constitution</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </nav>
+    <!--/.nav-wrapper-->
+    <section class="wrapper banner-wrapper">
+
+        <div class="region region-homeslider-portion">
+            <div id="block-views-home-flexslider-block" class="block block-views first last odd">
+
+
+                <div
+                    class="view view-home-flexslider view-id-home_flexslider view-display-id-block view-dom-id-daf736dc8abeab81694fe69e200c98f4">
+
+
+
+                    <div class="view-content">
+
+                        <div class="skin-default">
+
+                            <div id="flexslider_views_slideshow_main_home_flexslider-block"
+                                class="flexslider_views_slideshow_main views_slideshow_main">
+                                <div class="flex-nav-container">
+                                    <div class="flexslider">
+                                        <ul id="flexslider_views_slideshow_home_flexslider-block"
+                                            class="flexslider-views-slideshow-main-frame slides">
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="https://amritmahotsav.nic.in/" target="_blank"><img
+                                                                title="Azadi K Amrit Mahotsav"
+                                                                alt="Azadi K Amrit Mahotsav"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/Azadi%20K%20Amrit%20Mahotsav.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="https://pmmementos.gov.in/" target="_blank"><img
+                                                                title="PM Mementos" alt="PM Mementos"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/PM%20Mementos_0.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+
+                                                <div class="views-field views-field-php"> <span
+                                                        class="field-content"><img
+                                                            src="https://cbpssubscriber.mygov.in/assets/uploads/juGajmc1gOVBUtt5"
+                                                            id="_aZCGCffILp6ytKRI"
+                                                            onclick="javascript:window.open('https://cbpssubscriber.mygov.in/aff/aZCGCffILp6ytKRI')"
+                                                            alt="CBPS Banner" style="cursor:pointer"
+                                                            onload="javascript:(function(){if(typeof _done == 'undefined' || !_done){this.setAttribute('src', this.getAttribute('src')+'?'+Math.floor((Math.random() * 100) + 1)); _done=true;}}).call(this)"></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="https://rashtragaan.in/" target="_blank"><img
+                                                                title="Azadi Ka Amrit Mahotsav"
+                                                                alt="Azadi Ka Amrit Mahotsav"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/azadi-ka-mahotsav-anthem-01-1-scaled.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="http://janaushadhi.gov.in/" target="_blank"><img
+                                                                title="PMBI" alt="PMBI"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/Website%20Banner%20DOP%20%281%29_2.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="https://sites.google.com/view/fitindiaoff/home"
+                                                            target="_blank"><img
+                                                                title="Age Appropriate Fitness Protocols"
+                                                                alt="Age Appropriate Fitness Protocols"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/mygov1598017264362306-1536x512_0.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="https://pmcares.gov.in" target="_blank"><img
+                                                                title="PMCARES Portal " alt="PMCARES Portal "
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/pmcare-pmindia%20site1800-527.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="http://ngogrant.pharmaceuticals.gov.in/"
+                                                            target="_blank"><img
+                                                                title="Online Portal for Pharmaceutical Promotion and Development Scheme (PPDS)"
+                                                                alt="Online Portal for Pharmaceutical Promotion and Development Scheme (PPDS)"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/Pharmaceutical%20Promotion%20and%20Development%20Scheme%20%28PPDS%29_0.JPG"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="https://play.google.com/store/apps/details?id=in.gov.pmbjp&hl=en"
+                                                            target="_blank"><img title="Jan Aushadhi App"
+                                                                alt="Jan Aushadhi App"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/DoP%20Sugam%202.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-10 views_slideshow_cycle_hidden views-row-even">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="http://gandhi.gov.in/" target="_blank"><img
+                                                                title="Commemorate 150 Years of the Father of the Nation"
+                                                                alt="Commemorate 150 Years of the Father of the Nation"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/01102018-gandhi.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-11 views_slideshow_cycle_hidden views-row-odd">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="" target="_blank"><img title="Tourist Visa"
+                                                                alt="Tourist Visa"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/niper-new.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                            <li
+                                                class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-12 views_slideshow_cycle_hidden views-row-even">
+
+                                                <div class="views-field views-field-php"> <span class="field-content"><a
+                                                            href="" target="_blank"><img title="Lab1" alt="Lab1"
+                                                                src="https://pharmaceuticals.gov.in/sites/default/files/banner-05.jpg"></a></span>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!--/.banner-wrapper-->
+    <section id="fontSize" class="wrapper body-wrapper ">
+        <div class="bg-wrapper top-bg-wrapper" style="padding:20px;">
+            <div class="minister-bg" style="background-color: #EAEFF2;padding: 20px;margin-left: 20px;">
+                <div class="container body-container" style="margin-left: 300px;">
+                    <div class="region region-current-minister">
+                        <div id="block-views-our-minister-block" class="block block-views first last odd">
+
+
+                            <div
+                                class="view view-our-minister view-id-our_minister view-display-id-block right-row view-dom-id-518a5512372690f79f5949c03d68acc5">
+
+
+
+                                <div class="view-content">
+                                    <div>
+
+                                        <div class="views-field views-field-nothing">
+                                            <div class="field-content">
+                                                <div class="minister">
+                                                    <a href="/minister/shri-narendra-modi" title="Shri Narendra Modi">
+                                                        <img typeof="foaf:Image"
+                                                            src="https://pharmaceuticals.gov.in/sites/default/files/sri-narendra-modi_0.png"
+                                                            width="126" height="142" alt="Shri Narendra Modi"
+                                                            title="Shri Narendra Modi" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;"  /></a>
+                                                    <div class="min-details">
+                                                        <h3><a href="/minister/shri-narendra-modi"
+                                                                title="Shri Narendra Modi">Shri Narendra Modi</a></h3>
+                                                        <h4>Hon'ble Prime Minister</h4>
+                                                    </div>
+
+
+
+
+
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="vision" id="skipCont">
+                        <h2 class="title"   style="font-size: 30px;margin-left: 140px;">VISION</h2>
+                        <p style="border:1px solid #cfcfcf; padding:5px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+                            To enable Indian pharmaceuticals industry to play a leading role in the global market and to
+                            ensure abundant availability, at reasonable prices within the country, of good quality
+                            pharmaceuticals of mass consumption.</p>
+                        <br />
+<br>
+<br>
+                        <div style="padding:20px;margin-left: 30px;">
+                            <a class="main-button-flag" href="https://pharmaceuticals.gov.in/about-constitution">
+                                Celebrating 76th
+                                 Constitution Day
+                            </a>
+
+                        </div>
+                        <br />
+
+                        <div>
+                            <center>
+                                
+                        </div>
+                        <script src="https://mib.gov.in/sites/all/themes/mib/js/mib-banner.js"></script>
+
+
+                    </div>
+
+                    <div class="region region-former-minister">
+                        <div id="block-views-former-minister-block" class="block block-views first last odd">
+
+
+                            <div
+                                class="view view-former-minister view-id-former_minister view-display-id-block view-dom-id-1aa1198c1c0ae7a78537c5dcb8393c7b">
+
+
+
+                                <div class="view-content">
+                                    <div class="views-row views-row-1 views-row-odd views-row-first">
+
+                                        <div class="views-field views-field-nothing">
+                                            <div class="field-content">
+                                                <div class="mos"><a href="/minister/dr-mansukh-mandaviya"
+                                                        title="Dr. Mansukh Mandaviya">
+                                                        <img typeof="foaf:Image"
+                                                            src="https://pharmaceuticals.gov.in/sites/default/files/MinisterDOP.jpg"
+                                                            width="116" height="142" alt="Dr. Mansukh Mandaviya"
+                                                            title="Dr. Mansukh Mandaviya" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" /></a>
+                                                    <div class="min-details">
+                                                        <h3><a href="/minister/dr-mansukh-mandaviya"
+                                                                title="Dr. Mansukh Mandaviya">Dr. Mansukh Mandaviya</a>
+                                                        </h3>
+                                                        <h4>Hon'ble Minister (C&F)</h4>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="views-row views-row-2 views-row-even views-row-last">
+
+                                        <div class="views-field views-field-nothing">
+                                            <div class="field-content">
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
+            </div>
+            <div class="container body-container">
+
+                <div class="body-top-wrapper clearfix minister-wrapper">
+
+
+
+
+
+
+                </div>
+
+
+                <div class="mid-body-cont clearfix">
+                    <div class="industry-tabs clearfix" style="margin-left: 200px;">
+                        <div class="region region-home-boxes">
+                            <div id="block-views-home-boxes-block" class="block block-views first last odd">
+
+
+                                <div
+                                    class="view view-home-boxes view-id-home_boxes view-display-id-block view-dom-id-9544197ba979b5967bd48d3529281e3e">
+
+
+
+                                    
+
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="otherlinkimp" style="background-color:#EAEFF2;">
+                <div class="container body-container">
+                    <div class="link-panel-wrapper clearfix" style="margin-left:200px;">
+
+                        <div class="link-panel other-links">
+
+
+                            <div class="region region-home-left">
+                                <div id="block-menu-menu-home-left-menu" class="block block-menu first last odd"
+                                    role="navigation">
+
+
+                                    <ul class="menu">
+                                        <li class="menu__item is-leaf first leaf"><a href="/review-orders"
+                                                title="Review Orders" class="menu__link">Review Orders</a></li>
+                                        <li class="menu__item is-leaf leaf"><a href="/annual-report"
+                                                title="Annual Report" class="menu__link">Annual Report</a></li>
+                                        <li class="menu__item is-leaf leaf"><a href="/important-link"
+                                                title="Important Links" class="menu__link">Important Links</a></li>
+                                        <li class="menu__item is-leaf leaf"><a
+                                                href="https://pib.gov.in/newsite/pmphoto.aspx?mincode=41&mincode=41"
+                                                title="External link that open in new window" target="_blank"
+                                                class="menu__link">Press Information Bureau</a></li>
+                                        <li class="menu__item is-leaf leaf"><a href="/hindi-shabdawali"
+                                                class="menu__link">Hindi Shabdawali</a></li>
+                                        <li class="menu__item is-leaf last leaf"><a href="/stqc-certificate"
+                                                class="menu__link">STQC Certificate</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="link-panel site-links"  style="margin-left:200px;"  style="background-color: #EAEFF2;">
+
+
+                            <section class="region region-sidebar-second column sidebar" style="background-color: #EAEFF2;">
+                                <div id="block-menu-block-3" class="block block-menu-block first last odd"
+                                    role="navigation"  style="background-color: #EAEFF2;">
+
+
+                                    <div
+                                        class="menu-block-wrapper menu-block-3 menu-name-menu-home-right-menu- parent-mlid-0 menu-level-1">
+                                        <ul class="menu" style="background-color: #EAEFF2;">
+                                            <li class="menu__item is-leaf first leaf menu-mlid-1058"><a
+                                                    href="/documents-reports" title="Documents/ Reports" id="doc"
+                                                    class="menu__link">Documents/ Reports</a></li>
+                                            <li class="menu__item is-leaf leaf menu-mlid-1063"><a href="/tender"
+                                                    title="Tenders" id="tender" class="menu__link">Tenders</a></li>
+                                            <li class="menu__item is-leaf leaf menu-mlid-1062"><a href="/recruitment"
+                                                    title="Recruitment" id="vacancy" class="menu__link">Recruitment</a>
+                                            </li>
+                                            <li class="menu__item is-leaf leaf menu-mlid-1061"><a href="/events"
+                                                    title="Events" id="publish" class="menu__link">Events</a></li>
+                                            <li class="menu__item is-leaf last leaf menu-mlid-2612"><a
+                                                    href="/media-gallery" title="Media Gallery" id="gallery"
+                                                    class="menu__link">Media Gallery</a></li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </section>
+                            <br>
+                            <br>
+
+
+
+                        </div>
+                        <div class="link-panel e-book">
+                            <div class="region region-ebooklet">
+                                <div id="block-block-12" class="block block-block first last odd">
+
+
+
+
+                                   
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="region region-dealer-banner">
+                            <div id="block-block-11" class="block block-block first last odd">
+
+
+
+                                <div class="link-panel external-links externalimgeare">
+                                    
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+
+    </section>
+    <!--/.body-wrapper-->
+    <div class="wrapper carousel-wrapper">
+        <div class="container carousel-container">
+            <div id="flexCarousel" class="flexslider carousel">
+                <div class="region region-featured">
+                    <div id="block-views-footer-banner-block" class="block block-views first last odd">
+
+
+                        <div
+                            class="view view-footer-banner view-id-footer_banner view-display-id-block nbs-flexisel-container view-dom-id-ecaa3bc2512cb361730b01a18db672c6">
+
+
+
+                            <div class="view-content">
+                                <ul class="slides">
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="https://pgportal.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/pg-portal_0.png"
+                                                    width="154" height="82"
+                                                    alt="Centralized Public Grievance Redress And Monitoring System (CPGRAMS)"
+                                                    title="Centralized Public Grievance Redress And Monitoring System (CPGRAMS)" /></a>
+                                        </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="https://indiacode.nic.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/India-Code.png"
+                                                    width="215" height="95" alt="India Code Information System"
+                                                    title="India Code Information System" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="https://digitalindiaawards.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/Small-Banner-digital-india_1.png"
+                                                    width="215" height="95" alt="Digital India Awards"
+                                                    title="Digital India Awards" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="http://gandhi.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/Gandhai.png"
+                                                    width="154" height="82" alt="Logo of Web Portal Mahatma Gandhi "
+                                                    title="Logo of Web Portal Mahatma Gandhi " /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="http://pledge.cvc.nic.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/Small-Banner-CVC-Pledge_0.jpg"
+                                                    width="215" height="95"
+                                                    alt="Observance of Vigilance Awareness Week" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="http://www.makeinindia.com/home" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/makeinindia.png"
+                                                    width="200" height="150" alt="Make in India Image1" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="https://goidirectory.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/Goidirectory.png"
+                                                    width="222" height="30" alt="Goi Web Directory Image1" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="http://www.digitalindia.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/digital_india_logo.png"
+                                                    width="150" height="70" alt="Digital India Image3" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="https://pmnrf.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/pmnrf_0.png"
+                                                    width="200" height="150"
+                                                    alt="Prime Minister National Relief fund Image1" /></a> </div>
+                                    </li>
+                                    <li class="">
+                                        <div class="views-field views-field-field-image"> <a
+                                                href="https://india.gov.in/" target="_BLANK"
+                                                title="External site that opens in a new window "><img
+                                                    typeof="foaf:Image"
+                                                    src="https://pharmaceuticals.gov.in/sites/default/files/2017-05-14.png"
+                                                    width="200" height="94" alt="National Portal of india Logo" /></a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--/.carousel-wrapper-->
+    <div class="wrapper footer-wrapper">
+        <footer id="footer" class="region region-footer">
+            <div id="block-block-20" class="block block-block first odd">
+
+
+                <style>
+                    <!--/*
+                    -->
+                <![CDATA[/* ><!--*/
+
+.skiptranslate{display:none;}
+
+/*--><!]]>*/
+                </style>
+            </div>
+            <div id="block-cmf-content-footer-region-block" class="block block-cmf-content last even">
+
+
+                <div class="wrapper footer-wrapper">
+                    
+                    <div class="footer-bottom-wrapper">
+                        <div class="container footer-bottom-container">
+                            <div class="footer-content clearfix ">
+                                <div class="logo-cmf">
+                                    <a href="http://cmf.gov.in/" target="_blank"><img
+                                            src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/images/cmf-logo.png"
+                                            alt="Built on Common Minimum Framework"></a>
+                                </div>
+                                <div class="copyright-content">
+                                    Website Content Managed by <strong>Department of Research and Industries</strong>
+                                    <span>Designed, Developed and Hosted by <a href="http://www.nic.in/"
+                                            title="NIC, External Link that opens in a new window"
+                                            target="_blank"><strong>National Informatics Centre( NIC )</strong></a>
+                                    </span> <span class="lastupdated">Last Updated: <strong>22 Oct 2021</strong></span>
+                                </div>
+                                <div class="gtranslate skiptranslate">
+                                    <script type="text/javascript">
+                                        /* <![CDATA[ */
+                                        eval(unescape("eval%28function%28p%2Ca%2Cc%2Ck%2Ce%2Cr%29%7Be%3Dfunction%28c%29%7Breturn%28c%3Ca%3F%27%27%3Ae%28parseInt%28c/a%29%29%29+%28%28c%3Dc%25a%29%3E35%3FString.fromCharCode%28c+29%29%3Ac.toString%2836%29%29%7D%3Bif%28%21%27%27.replace%28/%5E/%2CString%29%29%7Bwhile%28c--%29r%5Be%28c%29%5D%3Dk%5Bc%5D%7C%7Ce%28c%29%3Bk%3D%5Bfunction%28e%29%7Breturn%20r%5Be%5D%7D%5D%3Be%3Dfunction%28%29%7Breturn%27%5C%5Cw+%27%7D%3Bc%3D1%7D%3Bwhile%28c--%29if%28k%5Bc%5D%29p%3Dp.replace%28new%20RegExp%28%27%5C%5Cb%27+e%28c%29+%27%5C%5Cb%27%2C%27g%27%29%2Ck%5Bc%5D%29%3Breturn%20p%7D%28%276%207%28a%2Cb%29%7Bn%7B4%282.9%29%7B3%20c%3D2.9%28%22o%22%29%3Bc.p%28b%2Cf%2Cf%29%3Ba.q%28c%29%7Dg%7B3%20c%3D2.r%28%29%3Ba.s%28%5C%27t%5C%27+b%2Cc%29%7D%7Du%28e%29%7B%7D%7D6%20h%28a%29%7B4%28a.8%29a%3Da.8%3B4%28a%3D%3D%5C%27%5C%27%29v%3B3%20b%3Da.w%28%5C%27%7C%5C%27%29%5B1%5D%3B3%20c%3B3%20d%3D2.x%28%5C%27y%5C%27%29%3Bz%283%20i%3D0%3Bi%3Cd.5%3Bi++%294%28d%5Bi%5D.A%3D%3D%5C%27B-C-D%5C%27%29c%3Dd%5Bi%5D%3B4%282.j%28%5C%27k%5C%27%29%3D%3DE%7C%7C2.j%28%5C%27k%5C%27%29.l.5%3D%3D0%7C%7Cc.5%3D%3D0%7C%7Cc.l.5%3D%3D0%29%7BF%286%28%29%7Bh%28a%29%7D%2CG%29%7Dg%7Bc.8%3Db%3B7%28c%2C%5C%27m%5C%27%29%3B7%28c%2C%5C%27m%5C%27%29%7D%7D%27%2C43%2C43%2C%27%7C%7Cdocument%7Cvar%7Cif%7Clength%7Cfunction%7CGTranslateFireEvent%7Cvalue%7CcreateEvent%7C%7C%7C%7C%7C%7Ctrue%7Celse%7CdoGTranslate%7C%7CgetElementById%7Cgoogle_translate_element2%7CinnerHTML%7Cchange%7Ctry%7CHTMLEvents%7CinitEvent%7CdispatchEvent%7CcreateEventObject%7CfireEvent%7Con%7Ccatch%7Creturn%7Csplit%7CgetElementsByTagName%7Cselect%7Cfor%7CclassName%7Cgoog%7Cte%7Ccombo%7Cnull%7CsetTimeout%7C500%27.split%28%27%7C%27%29%2C0%2C%7B%7D%29%29"))
+/* ]]> */
+                                    </script>
+                                    <style type="text/css">
+                                        <!--
+                                        #goog-gt-tt {
+                                            display: none !important;
+                                        }
+
+                                        .goog-te-banner-frame {
+                                            display: none !important;
+                                        }
+
+                                        .goog-te-menu-value:hover {
+                                            text-decoration: none !important;
+                                        }
+
+                                        body {
+                                            top: 0 !important;
+                                        }
+
+                                        #google_translate_element2 {
+                                            display: none !important;
+                                        }
+                                        -->
+                                    </style>
+                                    <div id="google_translate_element2"></div>
+                                    <script
+                                        type="text/javascript">function googleTranslateElementInit2() { new google.translate.TranslateElement({ pageLanguage: 'en', autoDisplay: false }, 'google_translate_element2'); }</script>
+                                    <script type="text/javascript"
+                                        src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+                                    <style type="text/css">
+                                        <!--
+                                        a.gtflag {
+                                            background-image: url('/sites/all/modules/contributed/gtranslate/gtranslate-files/16a.png');
+                                        }
+
+                                        a.gtflag:hover {
+                                            background-image: url('/sites/all/modules/contributed/gtranslate/gtranslate-files/16.png');
+                                        }
+                                        -->
+                                    </style><a href="javascript:doGTranslate('en|en')" title="English" class="gtflag"
+                                        style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-0px -0px;"><img
+                                            src="/sites/all/modules/contributed/gtranslate/gtranslate-files/blank.png"
+                                            height="16" width="16" style="border:0;vertical-align:top;"
+                                            alt="English" /></a> <a href="javascript:doGTranslate('en|hi')"
+                                        title="Hindi" class="gtflag"
+                                        style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-500px -100px;"><img
+                                            src="/sites/all/modules/contributed/gtranslate/gtranslate-files/blank.png"
+                                            height="16" width="16" style="border:0;vertical-align:top;"
+                                            alt="Hindi" /></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stqc-logo"><a target="_blank" title="STQC Certificate"
+                            href="https://pharmaceuticals.gov.in/sites/default/files/STQC%20Certificate_0.pdf"><img
+                                src="https://pharmaceuticals.gov.in/sites/all/modules/customs/cmf_content/assets/images/cqw_logo.png"
+                                alt="STQC Certificate" /></a></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!--/.footer-wrapper-->
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#block-views-home-boxes-block .views-row-5").find("a").removeAttr("href").addClass("anchorelink");
+
+            $(".anchorelink").attr("href", "http://janaushadhi.gov.in/");
+            $(".anchorelink").attr("title", "External link that open in new window");
+            $(".anchorelink").attr("target", "_blank");
+            $(".more-link a").attr("title", "View All");
+            //$(".views-row-3").find("a").removeAttr("href").addClass("anchorelink1");
+
+            //$(".anchorelink1").attr("href","introduction");
+        });
+
+
+
+
+    </script>
+
+    <script type="text/javascript">
+        $(function () {
+            SyntaxHighlighter.all();
+        });
+        $(window).load(function () {
+            // Slider						
+            $('#flexSlider').flexslider({
+                animation: "slide",
+                controlNav: false,
+                start: function (slider) {
+                    $('body').removeClass('loading');
+                }
+            });
+            $('#contSlider1').flexslider({
+                animation: "slide",
+                controlNav: false,
+                start: function (slider) {
+                    $('body').removeClass('loading');
+                }
+            });
+
+            $('#contSlider2').flexslider({
+                animation: "slide",
+                controlNav: false,
+                start: function (slider) {
+                    $('body').removeClass('loading');
+                }
+            });
+
+
+
+            // Carousel						
+            $('#flexCarousel').flexslider({
+                animation: "slide",
+                animationLoop: false,
+                itemWidth: 200,
+                itemMargin: 5,
+                minItems: 2,
+                maxItems: 6,
+                slideshow: 1,
+                pausePlay: true,
+                pauseText: 'Pause',
+                playText: 'Play',
+                move: 1,
+                initDelay: 200,
+                controlNav: false,
+                start: function (slider) {
+                    $('body').removeClass('loading');
+                    if (slider.pagingCount === 1) slider.addClass('flex-centered');
+                }
+            });
+
+            // Gallery
+            $('#galleryCarousel').flexslider({
+                animation: "fade",
+                controlNav: "thumbnails",
+                start: function (slider) {
+                    $('body').removeClass('loading');
+                }
+            });
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+        });
+    </script>
+</body>
+
+</html>
